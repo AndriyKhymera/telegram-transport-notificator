@@ -1,6 +1,6 @@
 HELP.md
 /target/
-.properties
+*.properties
 
 ### STS ###
 .apt_generated
